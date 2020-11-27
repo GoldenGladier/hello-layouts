@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Layouts and Others
+GenericName=Hello Layouts App
+Comment=This is my app Hello layouts with Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.GoldenGladier.hello-layouts
+Icon=applications-development
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
